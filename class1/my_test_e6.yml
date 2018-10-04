@@ -1,0 +1,9 @@
+- !!python/unicode 'la la la'
+- 99
+- 24
+- !!python/unicode 'ip_addr': !!python/unicode '192.168.1.2'
+  !!python/unicode 'model': !!python/unicode '1921'
+  !!python/unicode 'platform': !!python/unicode 'cisco_ios'
+  !!python/unicode 'vendor': !!python/unicode 'cisco'
+- !!python/unicode 'do do do'
+- !!python/unicode 'de de de'
